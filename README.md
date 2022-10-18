@@ -46,7 +46,7 @@ Unfortunately, the LibreAmnesia project cannot provide hosting space in the form
 
 ### Crediting information
 
-*LibreAmnesia* is made up of submissions from many people all over the globe. All of them, including **you**, deserve credit! Please do not forget to provide your name and email when submitting resources.
+*LibreAmnesia* is made up of submissions from many people all over the globe. All of them, including **you**, deserve credit!
 
 ### Using Git
 
