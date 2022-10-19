@@ -40,9 +40,9 @@ The most common, and a fairly simple method, to submit your work is by posting i
 
 This allows a quick cycle of development and feedback.
 
-An alternative to using the forum is to post your submission on the [issue tracker](https://github.com/Phantasm42/LibreAmnesia/issues), which may also be peer-reviewed and provide a feedback cycle.
+An alternative to using the *LibreAmnesia* Discord server is to post your submission on the [issue tracker](https://github.com/Phantasm42/LibreAmnesia/issues), which may also be peer-reviewed and provide a feedback cycle.
 
-Unfortunately, the LibreAmnesia project cannot provide hosting space in the form of a webpage nor FTP, however, there are many free file hosts to use when you need a location to upload files. Sites and services such as [Google Drive](https://drive.google.com/) and [Mega](https://mega.co.nz/), as well as others, are common and should be simple to use.
+Unfortunately, the *LibreAmnesia* project cannot provide hosting space in the form of a webpage nor FTP, however, there are many free file hosts to use when you need a location to upload files. Sites and services such as [Google Drive](https://drive.google.com/) and [Mega](https://mega.co.nz/), as well as others, are common and should be simple to use.
 
 ### Crediting information
 
