@@ -1,0 +1,14 @@
+<LANGUAGE>
+	<RESOURCES>
+		<Directory Path="fonts/eng" />
+		<Directory Path="lang/eng" />
+	</RESOURCES>
+	<CATEGORY Name="PreMenu">
+		<Entry Name="WelcomeMessage01">Welcome to LibreAmnesia![br][br]What follows is a couple of quick messages on how to get the best possible experience.</Entry>
+		<Entry Name="WelcomeMessage02">LibreAmnesia should not be played to win.[br][br]Instead, focus on immersing yourself in the game's world and story.</Entry>
+		<Entry Name="WelcomeMessage03">Do not worry about when and how to save during gameplay, the game will take care of that for you.[br][br]When you want to leave the game, just choose "Save and Exit". You can then use "Continue" to return to where you left off next time you start up the game.</Entry>
+		<Entry Name="WelcomeMessage04">The world of LibreAmnesia is a dangerous place and you are extremely vulnerable.[br][br]Do not try to fight the enemies encountered. Instead, use your wits. Hide, or even run if necessary.</Entry>
+		<Entry Name="WelcomeMessage05">The interplay between light and dark is very important to the game and because of this it is vital to set up the gamma correctly. Use the slider control below to do so. Adjust it until the square at the right is barely visible.[br][br]Also make sure to play in a dark room and wear headphones for the best effect.</Entry>
+		<Entry Name="WelcomeMessage06">That is all. Hope you enjoy immersing yourself in the world of LibreAmnesia.[br][br][br]- Contributors to the LibreAmnesia project</Entry>
+	</CATEGORY>
+</LANGUAGE>
