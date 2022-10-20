@@ -1,0 +1,21 @@
+<ENEMYSOUNDS>
+	<Sound name="impact_" /> 
+	<Sound name="break_" />
+	<Sound name="explosion_" />
+	<Sound name="weapon_" />
+	<Sound name="player_step" />
+	<Sound name="player_scare" />
+	<Sound name="door_" />
+	<Sound name="interact_" />
+	<Sound name="item_dynamite" />
+	<Sound name="item_generic_throw" />
+	<Sound name="item_flare_loop" />
+	<Sound name="item_flashlight" />
+	<Sound name="item_radio_noise" />
+	<Sound name="metal_" />
+	<Sound name="plastic_" />
+	<Sound name="stall_" />
+	<Sound name="unbreak_" />
+	<Sound name="wood_" />
+	<Sound name="water_" />
+</ENEMYSOUNDS>
