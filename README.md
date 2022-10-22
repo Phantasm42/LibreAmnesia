@@ -6,7 +6,7 @@ There is a massive [back catalogue](https://www.moddb.com/games/amnesia-the-dark
 
 # How to Play
 
-Since *LibreAmnesia* is only the game data, you will still need to download an engine. Currently, there isn't a way to download precompiled engine and game binaries without the need to obtain non-free software, so the only way to get an engine is to compile one with *Amnesia: The Dark Descent* source code. The work in progress can then be played by placing all of its contents in an empty folder, and copying Amnesia.exe along with its dll files.
+Since *LibreAmnesia* is only the game data, you will still need to download an engine. Currently, there isn't a way to download precompiled engine and game binaries without the need to obtain non-free software, so the only way to get an engine is to compile one with *Amnesia: The Dark Descent* source code. The work in progress can then be played in Windows by placing all of its contents in an empty folder and copying Amnesia.exe along with its dll files, or on a GNU/Linux distribution by simply copying Amnesia.bin.x86 or Amnesia.bin.x86_64.
 
 # What “Free” Means
 
